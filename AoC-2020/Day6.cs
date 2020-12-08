@@ -41,7 +41,6 @@ namespace AoC_2020
         [Test]
         public void Part2()
         {
-            Console.WriteLine(individualAnswers);
             Dictionary<char, int> answerDictionary = new Dictionary<char, int>();
 
             var countOfAnswers = 0;
